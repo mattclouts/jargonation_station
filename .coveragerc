@@ -1,0 +1,3 @@
+[run]
+include = jargonation_station/*
+omit = *migrations*, *tests*
